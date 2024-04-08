@@ -31,17 +31,19 @@ section {
 section h1{
   font-size: 3rem;
   margin: 20px;
+  
 }
 
 /* section--> h2 tag properties */
 section h2 {    
   font-size: 40px;
   text-align: center;
-  color: rgb(168, 133, 133);
+  color: rgb(253, 253, 253);
 }
 
 section .fade-bottom h2{
-  color: beige;
+  color: rgba(3, 94, 8, 0.8);
+  text-shadow: 2px 1px 1px #ffffff;
 }
 
 section .text-container1, section .text-container3{
